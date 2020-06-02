@@ -1,4 +1,5 @@
-# Social Media Data Analytics
+##Social Media Data Analytics
+
 1. Trend based analysis to understand the existing trend for Major league Soccer facebook page and find meaningful insights.
 2. Content based analysis to find insights about the kind of content that engages audiences and much more.
 3. Predicted future trends using ARIMA Model(This is just to get an idea how arima model can be used on time series data,but we require more data for better and much accurate analysis)
