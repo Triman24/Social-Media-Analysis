@@ -5,11 +5,12 @@
 3. Predicted future trends using ARIMA Model(This is just to get an idea how arima model can be used on time series data,but we require more data for better and much accurate analysis)
 
 **Table of Content**
+
 * Trend Analysis
 * Content Based Analysis
 * Arima Modeling
 
-** To get the information related to each module, go to their directory and find the README file**
+** To get the information related to each module, go to their directory and find the README file **
 Tools: Pandas, Matplotlib,
 
 **Dataset** : Dataset used contained two reports on:
